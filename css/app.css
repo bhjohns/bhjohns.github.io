@@ -1,0 +1,47 @@
+/* app css stylesheet */
+body {
+	text-align: center;
+}
+
+table {
+	width: 100%;
+}
+
+th {
+	height: 50px;
+}
+
+table, th, td {
+	margin: auto;
+	text-align: center;
+	border: 1px solid black;
+}
+
+ul {
+	list-style: none;
+}
+
+#filterArea {
+	display: inline-block;
+	width: 500px;
+	text-align: left;
+}
+
+#filterList {
+	text-align: left;
+	padding-bottom: 30px;
+}
+
+#filterQuery {
+	display: inline;
+}
+
+#filteredResultsFound {
+	padding-bottom: 50px;
+}
+
+#toggleColumnsArea {
+	display: inline-block;
+	text-align: left;
+	width: 300px;
+}
